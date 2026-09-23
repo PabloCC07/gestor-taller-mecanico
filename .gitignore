@@ -1,0 +1,7 @@
+# Archivos Java compilados
+*.class
+out/
+
+# Configuración del IDE
+.idea/
+*.iml
